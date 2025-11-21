@@ -1,7 +1,7 @@
 
 #  Retail Insights Dashboard — Datathon Project
 
-*A full-stack data analytics dashboard exploring pricing, revenue, customer behaviour & geographic sales patterns.*
+*A data analytics dashboard exploring pricing, revenue, customer behaviour & geographic sales patterns.*
 
 ---
 ##  Project Overview
