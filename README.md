@@ -27,7 +27,16 @@ The goal is to support decision-making by identifying revenue drivers, pricing o
 🟧 **Weekly Time-Series — Quantity vs Avg Shipping Fee**
 - Area chart: Weekly quantity sold  
 - Line chart: Avg weekly shipping fee (secondary axis)  
-- Shows demand trends and volatility  
+- Shows demand trends and volatility
+  
+### 🌡️ Heatmap — Monthly Revenue Across Years
+- Displays total revenue for each month across multiple years  
+- X-axis: Month, Y-axis: Year  
+- Color intensity indicates revenue magnitude
+
+### 💸 Weekly Quantity vs Shipping Fee Volatility  
+- Shows how changes in shipping fees impact purchase quantity  
+- Highlights periods of high demand and cost sensitivity  
 
 🗺️ **Geographic Sales Map**
 - Bubble map using latitude and longitude  
