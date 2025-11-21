@@ -29,12 +29,12 @@ The goal is to support decision-making by identifying revenue drivers, pricing o
 - Line chart: Avg weekly shipping fee (secondary axis)  
 - Shows demand trends and volatility
   
-### 🌡️ Heatmap — Monthly Revenue Across Years
+🌡️ **Heatmap — Monthly Revenue Across Years**
 - Displays total revenue for each month across multiple years  
 - X-axis: Month, Y-axis: Year  
 - Color intensity indicates revenue magnitude
 
-### 💸 Weekly Quantity vs Shipping Fee Volatility  
+ 💸 **Weekly Quantity vs Shipping Fee Volatility**
 - Shows how changes in shipping fees impact purchase quantity  
 - Highlights periods of high demand and cost sensitivity  
 
